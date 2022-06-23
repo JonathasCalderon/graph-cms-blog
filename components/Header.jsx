@@ -3,7 +3,8 @@ import Link from 'next/link';
 
 const categories = [
   {name: 'Investigacion', slug: 'investigacion'},
-  {name: 'Programacion', slug: 'programacion'}
+  {name: 'Programacion', slug: 'programacion'},
+  {name: 'Diseño', slug: 'diseno'}
 ]
 
 const Header = () => {
